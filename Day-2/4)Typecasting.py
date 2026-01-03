@@ -8,3 +8,9 @@ b = "2"
 print(int(a) + int(b))
 print(float(a) + float(b))
 print(bool(a) + bool(b))
+
+c = 5.5
+d = 1
+print(type(c),"+",type(d),"=",type(c+d))
+e = "hello"
+f = [1,"a",0.5]
