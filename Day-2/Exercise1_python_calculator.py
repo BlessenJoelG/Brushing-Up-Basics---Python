@@ -1,4 +1,3 @@
-print("hello")
 """This is a exercise of using operators,variables,print function 
 to write a python calculator program"""
 print("Python calculator")
