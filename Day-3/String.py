@@ -19,3 +19,7 @@ print(x[5],"\n")
 print("accesing characters using a for loop\n")
 for character in x:
     print(character)
+
+print("We are in Strings concept Now!!")
+x = input("Enter your name:\n")
+print(x,"is also know as a string")
