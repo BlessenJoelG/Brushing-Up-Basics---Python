@@ -1,0 +1,1 @@
+print("have to recollect memories of sql and dbms")
