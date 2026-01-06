@@ -1,29 +1,29 @@
-# #in python list are the chaneable datatypes that is we can modify the existing list after its creation 
-# #list is contained with elements seperated within "," and enclosed within [] square brackets
-# friends = ["premik","blessen","joel","jaya"]
-# print("friends","is a",type(friends))
-# print("prem's friends are:",friends)
-# print()
+#in python list are the chaneable datatypes that is we can modify the existing list after its creation 
+#list is contained with elements seperated within "," and enclosed within [] square brackets
+friends = ["premik","blessen","joel","jaya"]
+print("friends","is a",type(friends))
+print("prem's friends are:",friends)
+print()
 
-# #list index
-# print("list index:\n")
-# print("first friend of prem is:",friends[0])
-# print("second friend of prem is:",friends[1])
-# print("third friend of prem is:",friends[2])
-# print("fourth friend of prem is:",friends[3])
-# print()
+#list index
+print("list index:\n")
+print("first friend of prem is:",friends[0])
+print("second friend of prem is:",friends[1])
+print("third friend of prem is:",friends[2])
+print("fourth friend of prem is:",friends[3])
+print()
 
-# #negative indexing in list
-# print("negative indexing in list:\n")
-# print("last friend of prem is",friends[-1])
-# print("second last friend of prem is",friends[-2])
+#negative indexing in list
+print("negative indexing in list:\n")
+print("last friend of prem is",friends[-1])
+print("second last friend of prem is",friends[-2])
 
-# # checking items in list through membership operator
-# find_friend = input("enter the friend you want to find: ")
-# if find_friend in friends:
-#     print(f"{find_friend} is one of prem's friend")
-# else:
-#     print(f"{find_friend} is not prem's friend")
+# checking items in list through membership operator
+find_friend = input("enter the friend you want to find: ")
+if find_friend in friends:
+    print(f"{find_friend} is one of prem's friend")
+else:
+    print(f"{find_friend} is not prem's friend")
 
 # range of index in list
 print("using range() in list")
