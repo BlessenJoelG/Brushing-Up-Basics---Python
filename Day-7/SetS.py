@@ -1,2 +1,1 @@
-if(TRUE):
-    pass
+pass
