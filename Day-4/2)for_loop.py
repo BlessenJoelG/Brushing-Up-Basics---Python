@@ -1,9 +1,9 @@
 #printing sequence of characters in a string through for loop
-# name = input("Enter your nickname:\n")
-# print(f"Your name is {name}")
-# for char in name:
-#     print(char)
-#accessing element in a list
+name = input("Enter your nickname:\n")
+print(f"Your name is {name}")
+for char in name:
+    print(char)
+# accessing element in a list
 heroes = ["iron man", "black widow", "captain marvel", "thor", "dr-doom"]
 for hero in heroes:
     print(hero)
