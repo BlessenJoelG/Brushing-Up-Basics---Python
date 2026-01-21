@@ -6,3 +6,4 @@ match word:
     case 'N':
         print("You need to change your mindset")
 # select Discipline from mindset;
+pass
